@@ -8,7 +8,7 @@ void PRINT(int);
 int main(void) {
 
 	int gugudan;
-	printf("¿øÇÏ´Â ±¸±¸´Ü(1~9) : ");
+	printf("ì›í•˜ëŠ” êµ¬êµ¬ë‹¨(1~9) : ");
 	scanf("%d",&gugudan);
 	PRINT(gugudan);
 	return 0;
