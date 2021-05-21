@@ -7,7 +7,7 @@ void revPrint(void);
 
 int main(void) {
 
-	printf("¹®ÀÚ¿­ ÀÔ·Â : ");
+	printf("ë¬¸ìì—´ ì…ë ¥ : ");
 	revPrint();
 	return 0;
 }
